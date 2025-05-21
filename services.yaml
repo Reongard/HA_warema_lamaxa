@@ -1,0 +1,10 @@
+set_position:
+  name: "Warema Dachposition setzen"
+  description: "Setzt eine bestimmte Rotation (-45 bis 90) oder Öffnungsgrad (0–100%)."
+  fields:
+    rotation:
+      description: "Rotationswert in Grad (-45 bis 90)"
+      example: -45
+    percent:
+      description: "Öffnungsgrad in Prozent (0–100)"
+      example: 50

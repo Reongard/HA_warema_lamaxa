@@ -1,0 +1,13 @@
+{
+  "domain": "warema_lamaxa",
+  "name": "Warema Lamaxa",
+  "version": "0.1.0",
+  "documentation": "https://github.com/dein-user/ha-warema-webcontrol",
+  "requirements": [],
+  "config_flow": true,
+  "platforms": ["cover", "sensor"],
+  "single_instance": true,
+  "codeowners": ["@dein-user"],
+  "dependencies": [],
+  "iot_class": "local_polling"
+}

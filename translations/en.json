@@ -1,0 +1,34 @@
+{
+    "config": {
+      "step": {
+        "user": {
+          "title": "Configure Warema Lamaxa",
+          "data": {
+            "host": "IP address of your Lamaxa WebControl"
+          },
+          "description": "Enter the local IP address of your Lamaxa WebControl."
+        }
+      }
+    },
+    "cover": {
+      "state": {
+        "opening": "Opening",
+        "closing": "Closing"
+      }
+    },
+    "sensor": {
+      "lamaxa_rotation": {
+        "name": "Roof Rotation"
+      },
+      "lamaxa_percent": {
+        "name": "Roof Opening Degree"
+      }
+    },
+    "service": {
+      "warema_lamaxa_set_position": {
+        "name": "Set Position",
+        "description": "Sets roof position by rotation (–45 to 90) or opening degree (0–100 %)."
+      }
+    }
+  }
+  

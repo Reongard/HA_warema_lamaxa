@@ -1,0 +1,33 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Warema Lamaxa einrichten",
+        "data": {
+          "host": "IP-Adresse deines Lamaxa WebControl"
+        },
+        "description": "Gib die lokale IP-Adresse deines Lamaxa WebControl ein."
+      }
+    }
+  },
+  "cover": {
+    "state": {
+      "opening": "Öffnet",
+      "closing": "Schließt"
+    }
+  },
+  "sensor": {
+    "lamaxa_rotation": {
+      "name": "Dach Rotation"
+    },
+    "lamaxa_percent": {
+      "name": "Dach Öffnungsgrad"
+    }
+  },
+  "service": {
+    "warema_lamaxa_set_position": {
+      "name": "Position setzen",
+      "description": "Setzt die Dach-Position per Rotation (–45 bis 90) oder Öffnungsgrad (0–100 %)."
+    }
+  }
+}
