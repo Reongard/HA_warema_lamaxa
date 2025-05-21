@@ -15,6 +15,10 @@ Control your Warema Lamaxa roof (models L50 & L70) directly from Home Assistant 
 * Service `warema_lamaxa.set_position` to set position by **rotation** or **percent**
 * Localization: German (`de.json`); English is the default fallback
 
+## To-Do
+
+*Add LED control
+
 ## Installation
 
 
