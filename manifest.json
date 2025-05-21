@@ -2,12 +2,12 @@
   "domain": "warema_lamaxa",
   "name": "Warema Lamaxa",
   "version": "0.1.0",
-  "documentation": "https://github.com/dein-user/ha-warema-webcontrol",
+  "documentation": "https://github.com/reongard/ha-warema-lamaxa",
   "requirements": [],
   "config_flow": true,
   "platforms": ["cover", "sensor"],
   "single_instance": true,
-  "codeowners": ["@dein-user"],
+  "codeowners": ["@reongard"],
   "dependencies": [],
   "iot_class": "local_polling"
 }
