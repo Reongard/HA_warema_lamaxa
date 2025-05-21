@@ -128,7 +128,7 @@ cards:
 
 Feel free to open issues or submit pull requests in the GitHub repository:
 
-`[https://github.com/YourUser/ha-warema-lamaxa](https://github.com/Reongard/HA_warema_lamaxa)`
+`https://github.com/Reongard/HA_warema_lamaxa`
 
 ---
 
