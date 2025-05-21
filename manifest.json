@@ -2,7 +2,7 @@
   "domain": "warema_lamaxa",
   "name": "Warema Lamaxa",
   "version": "0.1.0",
-  "documentation": "https://github.com/reongard/ha-warema-lamaxa",
+  "documentation": "https://github.com/Reongard/HA_warema_lamaxa.git",
   "requirements": [],
   "config_flow": true,
   "platforms": ["cover", "sensor"],
